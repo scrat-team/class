@@ -1,12 +1,9 @@
 {
   "name": "class",
-  "repo": "elf/class",
+  "repo": "scrat-team/class",
   "description": "Simple JavaScript inheritance implement",
   "version": "0.1.0",
   "keywords": ["class", "extend", "inheritance"],
   "scripts": ["index.js"],
-  "remotes": [
-    "http://git.ucweb.local"
-  ],
   "license": "MIT"
 }
